@@ -1,6 +1,10 @@
 ---
-title: Paneration 5k
 layout: post
-category: fitness
+title: "Panerathon 5k"
+description: ""
+category: 
+tags: [ "fitness" ]
 ---
+{% include JB/setup %}
+
 Today I ran (most of) the 5k Panerathon race. Felt pretty good for having participated in that, though I still wish I could finish an official 5k without walking. I can say (thanks to my phone) that my first kilometer is probably what killed me. As it interrupted my music to give me my pace and distance etc, I found out that I had covered the first kilometer of the race in 6:04(!), that's a crazy pace for me. If I had maintained that pace I would have cut about 5 minutes off my best 5k to date. Well, I still finished, and had fun, and that's really all that matters.

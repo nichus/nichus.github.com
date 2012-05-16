@@ -6,11 +6,12 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
-# Themes are encouraged to use these universal variables 
+# Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
 title : Icebergh
 tagline: Just a waste of bits
+header_image: /assets/images/header_muddy.jpg
 author :
   name : Orien Vandenbergh
   email : orien@icebergh.us
