@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Icebergh - Just a waste of bits
 ---
 {% include JB/setup %}
 
